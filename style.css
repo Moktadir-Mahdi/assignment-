@@ -1,0 +1,82 @@
+.full-menu{
+    background:#F5DEB3;
+    margin: auto;
+}
+.full-menu img{
+    width: 120px;
+    height: 45px;
+    
+}
+.menu-bar ul li a{
+border-right: 1px solid #fff;
+color: #fff;
+}
+ .bg-img{
+    background: url(https://i.ibb.co/bQLSNJn/intro-bg.jpg) no-repeat center center;
+    padding: 200px 0px;
+    background-size: cover; 
+    margin-top: -4px;
+}
+.bg-img h2{
+    margin-top: 35px;
+    margin-bottom: 40px;
+    color: #359ADB;
+}
+.bg-img h1{
+    color: #359ADB;
+}
+.about-img-left img{
+height: 240px;
+width: 230px;
+margin-left: 55px;
+margin-top: 30px;
+}
+.about-text-right h2{
+margin-top: 20px;
+margin-left: 40px;
+}
+.about-text-right h3{
+    margin-left: 40px;
+    margin-bottom: 25px;
+}
+.about-text-right p{
+    margin-left: 40px;
+    /* font-size: 20px; */
+    font-weight: 600;
+}
+.details{
+    background: #FFFAF0;
+    padding-top:60px ;
+    padding-bottom: 60px;
+    text-align: center;
+
+}
+.details-item{
+    
+    border: 2px dashed #D2D2D0;
+    border-radius: 0px 50px 0px; 
+    padding: 20px; 
+    /* width: 300px; */
+    height: 270px;
+    /* margin-left: 40px; */
+}
+.details-item span i{
+    color: #359EDE;
+    font-size: 60px;
+    text-align: center;
+    border: 2px solid #359EDE;
+    border-radius: 10px 15px 5px 10px;
+   
+    width: 80px;
+    height: 80px;
+}
+.details-item h1{
+margin-bottom: 20px;
+}
+.details-item p{
+
+}
+.footer{
+    background:#2C3E50;
+    margin-top: -20px;
+}
